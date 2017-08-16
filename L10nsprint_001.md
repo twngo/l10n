@@ -1,4 +1,4 @@
-# The Very first localization sprint
+# The Very First Localization Sprint
 ## 網路自由在地翻譯衝第一次活動　
 
 時間： 2017年8月20日
