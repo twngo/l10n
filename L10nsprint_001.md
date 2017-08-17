@@ -46,10 +46,10 @@ Learning Center](https://www.transifex.com/resources/)
 　 
 請在開通transifex帳號，請求加入其專案的中文小組團隊(大約是在上述連結頁各專案右側會看到"Join Team" 的連結)　
 本人  transifex 的帳號為： jxtsai  如果在操作上遇到問題，也可以在上頭傳訊息給我
-
 　
 3. Transifex 有提供使用翻譯者文件資源 https://www.transifex.com/resources/ ，若有空請自行參考
-　
+
+
 4. 另外在 github 上有本次相關翻譯挑戰的專案、開發資料整理　https://github.com/twngo/l10n
     （建議沒用過 github 者，也可以申請一個免付費帳號，雖然本次不一定會用到）
 
