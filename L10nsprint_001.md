@@ -32,7 +32,7 @@ Learning Center](https://www.transifex.com/resources/)
 
 #### 有關翻譯事項
 
-1. 當天進行工作的平台之一為  transifex ,若尚未開通 transifex 帳戶者，請事先到該網站(https://transifex.com)，免費註冊一個帳號。
+1. 當天進行工作的平台之一為  transifex ,若尚未開通 transifex 帳戶者，請事先到[該網站](https://transifex.com)，免費註冊一個帳號。
 
 2. 以 Open Tech Fund/ Localization Lab 為首所推動的網路自由軟體在地化專案列表
      https://www.transifex.com/otf/public/
