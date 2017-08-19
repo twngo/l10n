@@ -1,7 +1,7 @@
 # The Very First Localization Sprint
 ## 網路自由在地翻譯衝第一次活動　
 
-![](l10nSprint082017.png)
+![](img/l10nSprint082017.png)
 
 時間： 2017年8月20日
 
