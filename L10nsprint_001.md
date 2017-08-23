@@ -28,7 +28,7 @@
 Learning Center](https://www.transifex.com/resources/)
 
 
-## 行前通知信內容
+## 行前通知信內容 Notice for participants 
 
 #### 有關翻譯事項
 
@@ -73,3 +73,37 @@ Learning Center](https://www.transifex.com/resources/)
 3. 若有其它未盡詳細之處，需要主辦者再努力說明的，可直接回信發問。如果確認當天無法順利出席，也麻煩簡單回個信讓我知道，好掌握人數。　
 
 4. 雖然以上事項有點里里扣扣瑣瑣碎碎，但大家別忘了最重要的是抱著輕鬆愉快的心情一起來吃吃喝喝、認識朋友、交流資訊分享看法、貢獻翻譯投入。　
+
+
+## 活動後通知信
+感謝參與「網路自由本地翻譯衝」活動的朋友對於一些網際網路前延議題（如網路戰爭）和基本人權議題（如言論審查與個人隱私安全防護）等討論。
+
+### 翻譯挑戰部份
+
+我們初步的成果是完成了：
+1. 塔林手冊 2.0 一百六十多條條目的正體中文初稿 https://tw.network.okfn.org/2017/08/21/tallinn-manual/
+
+2. 美國非營利、關注網路匿名安全的 TOR Project 底下 OONIPROBE 專案的手機應用的正體中文校稿
+    https://ooni.torproject.org
+
+**Unfinished** 
+
+3. 雖然原訂欲挑戰的最後一個項目umbrella app 因為時間有限無法進行，今年初Security First 在專為人權捍衛者與新聞記者學習社群平台上推出了一系列四套的網路數位資訊安全小型課程
+
+    https://advocacyassembly.org/en/partners/securityfirst/  （Available in Enlgish/Arabic/Farsi）
+
+鼓勵大家有空可以上去看看，了解umbrella app 重點，關注它的近況，或持續在transifex上協助它的中文化校正與翻譯好讓從入門到進階的網路安全使用資訊讓更多台灣網民們知道。
+       
+### 後續的社群連繫
+以下提供一些關心在地化社群的參與資訊
+
+1. 臺灣自由開源 L10N 社群支援站 http://l10n.tw/translate/
+
+  它們有一個telegram 討論群，主要著重在自由軟體中文化、中文字形、字辭等討論，有興趣可自由加入
+  
+2.Localization Lab 網路自由工具在地化社群 https://wiki.localizationlab.org/
+
+  它們使用 nternet Freedom Festival 搭建的MatterMost 聊天軟體，其中有各國語言在地化社群的討論頻道外，還有一些circumvention的討論，可自由加入（English）
+
+  最後，如果對本次活動有什麼改善建議的提點，也歡迎私下來信討論
+
