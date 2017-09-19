@@ -8,6 +8,7 @@ https://cryptpad.fr/  => https://github.com/twngo/cryptpad  正體中文化文�
 
 [Tails 官網](http://tails.boum.org/)中文化 =>  https://github.com/twngo/tails-zh_TW　 (進行中)
 
+[umbrella app](https://secfirst.org/) 中文化　＝> https://github.com/twngo/Umbrella_content (進行中)
 
 ## localization sprint
 
