@@ -10,6 +10,10 @@ https://cryptpad.fr/  => https://github.com/twngo/cryptpad  正體中文化文�
 
 [umbrella app](https://secfirst.org/) 中文化　＝> https://github.com/twngo/Umbrella_content (進行中)
 
+## localization projects for opensouce and civil society
+
+[liberapay 開源的線上小額循環捐款平台](https://liberapay.com) = > https://hosted.weblate.org/projects/liberapay/ (已完成)
+
 ## localization sprint
 
 2017/08/20 first [localization sprint](L10nsprint_001.md) in Kaoshiung : 第一次網路自由本地翻譯衝活動
